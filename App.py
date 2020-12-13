@@ -14,3 +14,4 @@ sess = tf.compat.v1.Session()
 
 # Evaluate the tensor `c`.
 print(sess.run(c))  # prints 30.0
+print('helloWorld')
