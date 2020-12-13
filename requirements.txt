@@ -1,1 +1,5 @@
 python-dotenv
+black
+flake8
+bs4
+selenium
