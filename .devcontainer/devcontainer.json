@@ -23,7 +23,8 @@
 		"albert.tabout",
 		"mhutchie.git-graph",
 		"davidanson.vscode-markdownlint",
-		"esbenp.prettier-vscode"
+		"esbenp.prettier-vscode",
+		"ms-python.vscode-pylance"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
